@@ -138,8 +138,8 @@ navs:
 
   -
    # href: /about.html
-    label: About
-    target: _self
+   # label: About
+   # target: _self
 
 
 # labels. my blog key words
