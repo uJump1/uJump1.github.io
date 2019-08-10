@@ -137,9 +137,8 @@ navs:
    # target: _self
 
   -
-   # href: /about.html
-   # label: About
-   # target: _self
+   # href: /
+   # label: Home
 
 
 # labels. my blog key words
@@ -176,8 +175,8 @@ labels:
    # target: _blank
 
   -
-    href: /
-    label: Home  
+   # href: /
+   # label: Home  
   
 
 # selected articles
