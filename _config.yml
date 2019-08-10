@@ -73,9 +73,9 @@ menus:
    # target: _blank
 
   -
-    href: /life.html
-    label: 故事
-    target: _self
+   # href: /life.html
+   # label: 故事
+   # target: _self
 
   -
    # href: /arch.html
@@ -83,9 +83,9 @@ menus:
    # target: _self
 
   -
-   # href: /link.html
-   # label: 友链
-  #  target: _self
+    href: /link.html
+    label: 故事
+    target: _self
 
 
 
@@ -93,8 +93,8 @@ menus:
 navs:
 
   -
-    href: /
-    label: Home
+    #href: /
+    #label: Home
 
   -
    # href: /spring-boot.html
@@ -176,10 +176,9 @@ labels:
    # target: _blank
 
   -
-   # href: /python.html
-   # label: Python  
-   # target: _blank
-
+    href: /
+    label: Home  
+  
 
 # selected articles
 classes:
