@@ -137,8 +137,8 @@ navs:
    # target: _self
 
   -
-   # href: /
-   # label: Home
+    href: /
+    label: Home
 
 
 # labels. my blog key words
