@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 中秋和冰雹的海南行
+title: 中秋江哥和冰雹的海南行
 category: we
 tags: [we]
 excerpt: 虽短暂，但快乐
