@@ -11,10 +11,10 @@ excerpt: 虽短暂，但快乐
 ## 到达海南
 
 因为天气原因，飞机也是晚点了，大概8点半抵达机场，我和冰雹都饿了，看到冰雹画的借机画，非常开心。
-![](https://github.com/ujump1/ujump1.github.io/blob/master/assets/images/2019/zz/welecome.jpg?raw=true)
+![](https://github.com/ujump1/ujump1.github.io/blob/master/assets/images/2019/hainan/welecome.jpg?raw=true)
 然后交换了我们的礼物，江哥还给冰雹买了小蛋糕。
-![](https://github.com/ujump1/ujump1.github.io/blob/master/assets/images/2019/zz/gift1.jpg?raw=true)
-![](https://github.com/ujump1/ujump1.github.io/blob/master/assets/images/2019/zz/gift2.jpg?raw=true)
+![](https://github.com/ujump1/ujump1.github.io/blob/master/assets/images/2019/hainan/gift1.jpg?raw=true)
+![](https://github.com/ujump1/ujump1.github.io/blob/master/assets/images/2019/hainan/gift2.jpg?raw=true)
 
 ## 创建了一个训练营
 
