@@ -183,7 +183,7 @@ labels:
 classes:
 
   -
-    href: /life.html
+    href: /lifeJ.html
     name: 江哥的故事
     describe: 生活就是故事
 
@@ -191,7 +191,7 @@ classes:
    # href: /arch.html
    # name: 架构师之路
    # describe: 一个架构师的自我修养
-    href: /arch.html
+    href: /lifeB.html
     name: 冰雹的故事
     describe: 故事就是生活
   -
