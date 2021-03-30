@@ -11,16 +11,16 @@ subtitle: 爱的小脚印之每天爱冰雹
 name: 江哥和冰雹 
 email: 597682780@qq.com
 description: 本站是江哥和冰雹的小屋，记录生活中的故事。
-keywords: 江哥，冰雹，生活
+keywords: 江哥，冰雹，生活，学习
 encoding: "utf-8"
 favicon: favicon.ico 
 
 
 
-repository: uJump1/uJump1.github.io
-github_url: https://github.com/uJump1
+repository: ujump1/ujump1.github.io
+github_url: https://github.com/uiump1
 url: http://www.ujump1.com
-enforce_ssl: ityouknow.com
+enforce_ssl: ujump1.com
 
 ## Gem
 plugins:
@@ -56,35 +56,9 @@ paginate_path: 'page:num'
 
 # Navigation. top menu list
 menus:
-
-  -
-   # href: /zsxq.html
-   # label: 星球
-   # target: _self
-
-  -
-   # href: /it.html
-   # label: IT
-   # target: _self
-
-  -
-   # href: /geektime.html
-  #  label: 极客
-   # target: _blank
-
-  -
-   # href: /life.html
-   # label: 故事
-   # target: _self
-
-  -
-   # href: /arch.html
-    #label: 架构
-   # target: _self
-
   -
     href: /link.html
-    label: 故事
+    label: 友情连接
     target: _self
 
 
