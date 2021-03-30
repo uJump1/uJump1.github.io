@@ -20,5 +20,5 @@ permalink: /link
 
 - 网站名称：ujump1  
 - 网站链接：http://www.ujump1.com  
-- 网站描述：ujump的生活和学习 
+- 网站描述：ujump1的生活和学习 
 
