@@ -5,7 +5,7 @@ titlebar: life
 subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; 你的生活有什么故事？
 menu: lifeJ
 css: ['blog-page.css']
-permalink: /life
+permalink: /lifeJ
 ---
 
 <div class="row">
