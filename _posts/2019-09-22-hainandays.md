@@ -11,7 +11,7 @@ excerpt: 虽短暂，但快乐
 ## 到达海南
 
 因为天气原因，飞机也是晚点了，大概8点半抵达机场，我和冰雹都饿了，看到冰雹画的接机画，非常开心
-![](../assets/images/2019/hainan/welcome.jpg)
+![](https://www.ujump1.com/assets/images/2019/hainan/welcome.jpg)
 ![](https://github.com/ujump1/ujump1.github.io/blob/master/assets/images/2019/hainan/welcome.jpg)
 
 然后交换了我们的礼物，江哥还给冰雹买了小蛋糕。
