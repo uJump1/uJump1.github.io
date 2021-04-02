@@ -19,6 +19,6 @@ permalink: /link
 *需要展示你的网站，就在本页下面留言吧，也算是一种宣传方式。格式要求如下：*
 
 - 网站名称：ujump1  
-- 网站链接：http://www.ujump1.com  
+- 网站链接：https://www.ujump1.com  
 - 网站描述：ujump1的生活和学习 
 
